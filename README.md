@@ -1,5 +1,5 @@
 # ProjectEuler
-This repository contain my solutions to ProjectEuler problems.
+This repository contain my solutions to ProjectEuler problems. The solutions will be coded in Python 3.
 ### Link to ProblemSet: 
   https://projecteuler.net/archives
 
