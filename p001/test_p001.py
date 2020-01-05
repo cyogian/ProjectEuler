@@ -1,6 +1,5 @@
 import unittest
-target = __import__("p001")
-multisum  = target.multisum
+from p001 import multisum
 
 class TestMultiSum(unittest.TestCase):
 
