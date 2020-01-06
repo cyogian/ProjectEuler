@@ -1,6 +1,6 @@
 # ProjectEuler
 
-This repository contain my solutions to ProjectEuler problems. The solutions will be coded in Python 3.
+This repository contain my solutions to ProjectEuler problems. The solutions will be coded in Python 3 and Javascript.
 
 ---
 
