@@ -21,4 +21,4 @@ const lcm = (a, b) => {
 };
 
 const lowestCommonMultiple = n =>
-  [...Array(n).keys()].map(x => x + 1).reduce((acc, v) => lcm(acc, v + 1));
+  [...Array(n).keys()].map(x => x + 1).reduce((acc, v) => lcm(acc, v));
