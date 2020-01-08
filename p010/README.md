@@ -8,7 +8,7 @@ Find the sum of all the primes below n.
 
 ### Note:
 
-We are solving this problem by using "Sieve Of Erastothenes" to build an array of prime numbers below "n".
+We are solving this problem by using "Sieve Of Eratosthenes" to build an array of prime numbers below "n".
 
 - recommended for N <= 10 million
 - Time Complexity = O(nlog(log n))
