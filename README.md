@@ -8,8 +8,8 @@ This repository contain my solutions to ProjectEuler problems. The solutions wil
 
 There may be two different versions of the same problem:
 
-- One on https://projecteuler.net/archives
-- Another on freeCodeCamp
+- One on [Project Euler Official Site](https://projecteuler.net/archives) 
+- Another on [freeCodeCamp](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/) 
 
 In such a case the project euler version will we placed inside a separate file "euler\_" prefix.
 The freeCodeCamp version would be considered as primary.
