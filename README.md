@@ -16,6 +16,7 @@ The freeCodeCamp version would be considered as primary.
 
 - You can test the solution by running **python test\_\*.py** in the respective folder.
 
+
 ---
 
 It is recommended that you do not view the answers to this challenge, but instead visit Project Euler and work through the challenges yourself.
